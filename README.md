@@ -1,6 +1,5 @@
-# Behavioral Risk Factor Surveillance System Analysis 2011-2021
-
-The Behavioral Risk Factor Surveillance System (BRFSS) collects survey responses to hundreds of general health questions from 400,000 respondents annually. This project aims to clean, wrangle, and analyze this data to provide a better understanding of its contents. I used Python and Tableau to process and present the BRFSS’s 2.1 million records.
+# Behavioral Risk Factor Surveillance System 2011-2021
+![BRFSS_TM](https://user-images.githubusercontent.com/119871530/221696251-c9f4ed82-002a-4a05-8547-d12b021e37e6.jpg)
 
 ## Contents
 - [About](#about)
@@ -20,7 +19,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States’s 
 
 By collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.
 
-However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitude and variety. It covers topics from dietary habits to alcohol use to prostate exam frequency. Responses are stratified into multiple categories such as age, ethnicity, state, and year. Official categories, responses, and questions vary from year to year. **In this project I cleaned years 2015-2021, wrangled and uploaded more approachable subsets to kaggle, and conducted analyses by state, country, and demographic categories for the following questions**[^1].
+However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitude and variety. It covers topics from dietary habits to alcohol use to prostate exam frequency. Responses are stratified into multiple categories such as age, ethnicity, state, and year. Official categories, responses, and questions vary from year to year. **In this project I cleaned years 2015-2021, wrangled and uploaded more approachable subsets to kaggle, and conducted analyses by state, country, and demographic categories for the following questions**[[1]](#f1).
 
 ## Obectives <a name = "objectives"></a>
 - [x] Gain a functional understanding of the BRFSS and its variables.
@@ -47,7 +46,7 @@ However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitu
 
 ## Data <a name = "data"></a>
 **Original Data:**  
-[BRFSS Data](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)  
+[CDC's BRFSS Data](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)  
 [BRFSS Methodology](http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf)  
 [BRFSS Glossary](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data)  
 
@@ -66,7 +65,7 @@ However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitu
 <a href="http://asherwyn.github.io/"><img src="https://user-images.githubusercontent.com/119871530/221634877-471e1fd4-e3bc-41c3-b3e7-ca158e8659fb.png" width="20" height="20" target="_blank"></a>
 
 ## Footnotes <a name = "footnotes"></a>
-[^1]Questions used in the subsets and analysis for this project:
+[1] <a name = "f1"></a>**Questions used in the subsets and analysis for this project:**
   - How is your general health? `BRFSS QuestionID: GENHLTH`
   - Weight classification by Body Mass Index (BMI) (variable calculated from one or more BRFSS questions) `BRFSS QuestionID: _BMI5CAT`
   - Health Status (variable calculated from one or more BRFSS questions) `BRFSS QuestionID: _RFHLTH`
