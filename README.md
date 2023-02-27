@@ -1,5 +1,5 @@
 # Behavioral Risk Factor Surveillance System 2011-2021
-![BRFSS_TM](https://user-images.githubusercontent.com/119871530/221696251-c9f4ed82-002a-4a05-8547-d12b021e37e6.jpg)
+![WCMS_home_image](https://user-images.githubusercontent.com/119871530/221697289-fbe53653-4911-42ae-a270-bb31040c3cde.png)
 
 ## Contents
 - [About](#about)
