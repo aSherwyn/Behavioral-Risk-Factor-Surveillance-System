@@ -1,0 +1,145 @@
+id,response
+RESP001,Male
+RESP002,Female
+RESP003,Own
+RESP004,Rent
+RESP005,White
+RESP006,Black
+RESP007,Hispanic
+RESP008,MultiRacial
+RESP009,Other
+RESP010,18-24 years
+RESP011,25-34 years
+RESP012,35-44 years
+RESP013,45-54 years
+RESP014,55-64 years
+RESP015,65+ years
+RESP016,"Less than $15,000"
+RESP017,"$15,000 - 24,999"
+RESP018,"$25,000 - 34,999"
+RESP019,"$35,000 -  49,999"
+RESP020,"$50,000+"
+RESP021,Less than H.S.
+RESP022,H.S. or G.E.D.
+RESP023,Some post-H.S.
+RESP024,College+
+RESP025,Emplyd
+RESP026,Self emplyd
+RESP027,No work< yr
+RESP028,No work >yr
+RESP029,Homemkr
+RESP030,Student
+RESP031,Retired
+RESP032,Unable to work
+RESP033,Married
+RESP034,Divorced
+RESP035,Widowed
+RESP036,Separated
+RESP037,Never married
+RESP038,Partnered
+RESP039,Obese (BMI 30.0 - 99.8)
+RESP040,Overweight (BMI 25.0-29.9)
+RESP041,Normal Weight (BMI 18.5-24.9)
+RESP042,Underweight (BMI 12.0-18.4)
+RESP046,Yes
+RESP047,"Yes, Tdap"
+RESP048,"Yes, not Tdap"
+RESP049,"Yes, not sure what type"
+RESP050,"Yes, only one"
+RESP051,"Yes, pregnancy-related"
+RESP052,"No, pre-diabetes or borderline diabetes"
+RESP053,More than one
+RESP054,No
+RESP055,Respondent is blind
+RESP056,Excellent
+RESP057,Very good
+RESP058,Good
+RESP059,Fair
+RESP060,Poor
+RESP061,Good or Better Health
+RESP062,Fair or Poor Health
+RESP063,Within the past year
+RESP064,Within the past 2 years
+RESP065,Within the past 5 years
+RESP066,5 or more years ago
+RESP067,Never
+RESP068,Smoke everyday
+RESP069,Smoke some days
+RESP070,Former smoker
+RESP071,Never smoked
+RESP072,Checked in past 5 years
+RESP073,Not Checked in past 5 years
+RESP074,Never Checked
+RESP077,One or more times per day
+RESP078,Less than one time per day
+RESP079,Every day
+RESP080,Some days
+RESP081,Not at all
+RESP082,"Have arthritis, social activities limited a lot"
+RESP083,"Have arthritis, social activities limited a little"
+RESP084,"Have arthritis, social activities not limited"
+RESP085,"Have arthritis, have limited usual activities"
+RESP086,"Have arthritis, no limited usual activities"
+RESP087,Have arthritis and have limited work
+RESP088,Have arthritis and no limited work
+RESP089,Not told they have arthritis
+RESP090,Five or more children
+RESP091,Four children
+RESP092,Three children
+RESP093,Two children
+RESP094,One child
+RESP095,None
+RESP137,Employed
+RESP141,Homemaker
+RESP172,Self-employed
+RESP184,Always Wears a Seatbelt
+RESP185,Does Not Always Wear a Seatbelt
+RESP186,Received a mammogram within the past 2 years
+RESP187,Did not receive a mammogram within the past 2 years
+RESP188,Received a Pap test within the past 3 years
+RESP189,Did not receive a Pap test within the past 3 years
+RESP190,Had a blood stool test in the past year
+RESP191,Have not had a blood stool test in the past year
+RESP192,Met USPSTF recommendations for testing
+RESP193,Did not meet USPSTF recommendations for testing
+RESP194,"White, non-Hispanic"
+RESP195,"Black, non-Hispanic"
+RESP196,"American Indian or Alaskan Native, non-Hispanic"
+RESP197,"Asian, non-Hispanic"
+RESP198,"Native Hawaiian or other Pacific Islander, non-Hispanic"
+RESP199,"Other race, non-Hispanic"
+RESP200,"MultiRacial, non-Hispanic"
+RESP201,Have driven after having too much to drink
+RESP202,Have not driven after having too much to drink
+RESP203,Reported having MI or CHD
+RESP204,Did not report having MI or CHD
+RESP205,Do not meet criteria for heavy drinking
+RESP206,Meet criteria for heavy drinking
+RESP207,Received a colonoscopy
+RESP208,Did not receive a colonoscopy
+RESP209,Received a home FOBT
+RESP210,Did not receive a home FOBT
+RESP211,Received a sigmoidoscopy
+RESP212,Did not receive a sigmoidoscopy
+RESP213,Not currently using E-cigarettes
+RESP214,Current E-cigarette user
+RESP215,Current E-cigarette user - every day
+RESP216,Current E-cigarette user - some days
+RESP217,Former E-cigarette user
+RESP218,Never used E-cigarettes
+RESP219,Zero days when physical health not good
+RESP220,1-13 days when physical health not good
+RESP221,14+ days when physical health not good
+RESP222,Zero days when mental health not good
+RESP223,1-13 days when mental health not good
+RESP224,14+ days when mental health not good
+RESP225,Have not had a blood stool test in more than the past year
+RESP226,Have never had a blood stool test
+RESP227,Received one or more of the recommended CRC tests within the recommended time interval
+RESP228,Did not receive one or more of the recommended CRC tests within the recommended time interval
+RESP229,Have never received any of the recommended CRC tests
+RESP230,"$50,000 - 99,999"
+RESP231,"$100,000 - 199,999"
+RESP232,"$200,000+"
+RESP233,Have some form of health insurance
+RESP234,Do not have some form of health insurance

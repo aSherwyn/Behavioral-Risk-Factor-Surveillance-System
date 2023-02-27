@@ -1,0 +1,21 @@
+id,class
+CLASS01,Alcohol Consumption
+CLASS02,Cholesterol Awareness
+CLASS03,Chronic Health Indicators
+CLASS04,Colorectal Cancer Screening
+CLASS05,Demographics
+CLASS06,Fruits and Vegetables
+CLASS07,Health Care Access/Coverage
+CLASS08,Health Status
+CLASS09,HIV-AIDS
+CLASS10,Hypertension Awareness
+CLASS11,Immunization
+CLASS12,Injury
+CLASS13,Oral Health
+CLASS14,Overweight and Obesity (BMI)
+CLASS15,Physical Activity
+CLASS16,Prostate Cancer
+CLASS17,Tobacco Use
+CLASS18,Women's Health
+CLASS19,E-Cigarette Use
+CLASS20,Days of Poor Health

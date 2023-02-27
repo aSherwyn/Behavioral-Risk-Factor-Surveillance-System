@@ -1,0 +1,57 @@
+id,breakout
+AGE01,18-24
+AGE02,25-34
+AGE03,35-44
+AGE04,45-54
+AGE05,55-64
+AGE06,40-49
+AGE07,50-59
+AGE08,60-64
+AGE09,65+
+AGE10,65-74
+AGE11,75+
+AGE12,21-30
+AGE13,31-40
+AGE14,41-50
+AGE15,51-60
+AGE16,61-65
+AGE17,60-69
+AGE18,70-74
+AGE19,70-75
+AGE20,21-25
+AGE21,26-35
+AGE22,36-45
+AGE23,46-55
+AGE24,56-65
+BO1,Overall
+EDUCA1,Less than H.S.
+EDUCA2,H.S. or G.E.D.
+EDUCA3,Some post-H.S.
+EDUCA4,College graduate
+INCOME01,"Less than $15,000"
+INCOME02,"$15,000-$24,999"
+INCOME03,"$25,000-$34,999"
+INCOME04,"$35,000-$49,999"
+INCOME05,"$50,000-$99,999"
+INCOME06,"$100,000-$199,999"
+INCOME07,"$200,000+"
+INCOME1,"Less than $15,000"
+INCOME2,"$15,000-$24,999"
+INCOME3,"$25,000-$34,999"
+INCOME4,"$35,000-$49,999"
+INCOME5,"$50,000+"
+RACE01,"White, non-Hispanic"
+RACE02,"Black, non-Hispanic"
+RACE03,"American Indian or Alaskan Native, non-Hispanic"
+RACE04,"Asian, non-Hispanic"
+RACE05,"Native Hawaiian or other Pacific Islander, non-Hispanic"
+RACE06,"Other, non-Hispanic"
+RACE07,"Multiracial, non-Hispanic"
+RACE08,Hispanic
+RACE1,"White, non-Hispanic"
+RACE2,"Black, non-Hispanic"
+RACE3,Hispanic
+RACE4,"Other, non-Hispanic"
+RACE5,"Multiracial, non-Hispanic"
+SEX1,Male
+SEX2,Female

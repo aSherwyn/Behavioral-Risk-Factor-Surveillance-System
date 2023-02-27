@@ -1,0 +1,146 @@
+id,question
+ADDEPEV2,Ever told you that you have a form of depression?
+ADDEPEV3,Ever told you that you have a form of depression?
+AGE,What is your age?
+BLIND,"Are you blind or do you have serious difficulty seeing, even when wearing glasses?"
+BLOODCHO,Adults who have ever had their blood cholesterol checked
+CHCCOPD,Ever told you have COPD?
+CHCCOPD1,Ever told you have COPD?
+CHCCOPD2,Ever told you have COPD?
+CHCCOPD3,Ever told you have COPD?
+CHCKDNY1,Ever told you have kidney disease?
+CHCKDNY2,Ever told you have kidney disease?
+CHCKIDNY,Ever told you have kidney disease?
+CHCOCNCR,Ever told you had any other types of cancer?
+CHCSCNCR,Ever told you had skin cancer?
+CHCVISN1,Ever told you have vision impairment?
+CHCVISON,Ever told you have vision impairment?
+CHECKUP1,About how long has it been since you last visited a doctor for a routine checkup?
+CVDCRHD4,Ever told you had angina or coronary heart disease?
+CVDINFR4,Ever told you had a heart attack (myocardial infarction)?
+CVDSTRK3,Ever told you had a stroke?
+DEAF,Adults who reported being deaf
+DECIDE,"Do you have serious difficulty concentrating, remembering, or making decisions?"
+DIABETE3,Have you ever been told by a doctor that you have diabetes?
+DIABETE4,Have you ever been told by a doctor that you have diabetes?
+DIFFALON,Do you have difficulty doing errands alone?
+DIFFDRES,Do you have difficulty dressing or bathing?
+DIFFWALK,Do you have serious difficulty walking or climbing stairs?
+DRNKANY5,Adults who have had at least one drink of alcohol within the past 30 days
+ECIGNOW1,"Do you now use e-cigarettes or other electronic vaping products every day, some days, or not at all?"
+EDUCA,What is the highest grade or year of school you completed?
+EMPLOY,What is your employment status?
+EMPLOY1,What is your employment status?
+GENHLTH,How is your general health?
+HIVTST6,Have you ever been tested for HIV?
+HIVTST7,Have you ever been tested for HIV?
+HLTHPLN1,Do you have any kind of health care coverage?
+INCOME,What is your annual household income?
+INCOME1,"Less than $15,000"
+INTERNET,Have you used the internet in the past 30 days?
+MARITAL,What is your marital status?
+MEDCOST,Was there a time in the past 12 months when you needed to see a doctor but could not because of cost?
+MEDCOST1,Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it?
+PERSDOC2,Do you have one person you think of as your personal doctor or health care provider?
+PERSDOC3,Do you have one person (or a group of doctors) that you think of as your personal health care provider?
+QLACTLM2,"Adults who are limited in any activities because of physical, mental, or emotional problems"
+RACE,What is your race/ethnicity?
+RACE8,What is your race/ethnicity?
+RENTHOM1,Do you own or rent your home?
+SEX,Gender of respondent
+SHINGLE2,Have you ever had the shingles or zoster vaccine?
+TETANUS,"Since 2005, have you had a tetanus shot?"
+TETANUS1,"Since 2005, have you had a tetanus shot?"
+USEEQUIP,Adults with health problem(s) that requires the use of special equipment
+USENOW3,"Do you currently use chewing tobacco, snuff, or snus?"
+VETERAN3,Have you ever served on active duty in the United States Armed Forces?
+_ALTETH2,Adults aged 65+ who have had all their natural teeth extracted (variable calculated from one or more BRFSS questions)
+_ALTETH3,Adults aged 65+ who have had all their natural teeth extracted (variable calculated from one or more BRFSS questions)
+_BMI5CAT,Weight classification by Body Mass Index (BMI) (variable calculated from one or more BRFSS questions)
+_CASTHM1,Adults who have been told they currently have asthma (variable calculated from one or more BRFSS questions)
+_CHLDCNT,How many children live in your household? (variable calculated from one or more BRFSS questions)
+_CHOLCH1,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+_CHOLCH2,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+_CHOLCH3,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+_CHOLCHK,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+_COL10YR,Aged 50-75 had a colonoscopy in the past 10 years
+_CRCREC,Respondents aged 50-75 who have fully met the USPSTF recommendation (variable calculated from one or more BRFSS questions)
+_CRCREC1,Respondents aged 50-75 who have fully met the USPSTF recommendation (variable calculated from one or more BRFSS questions)
+_CURECI1,Adults who are current e-cigarette users (variable calculated from one or more BRFSS questions)
+_CURECIG,Current E-cigarette user
+_DENVST2,Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)
+_DENVST3,Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)
+_DRDXAR1,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+_DRDXAR2,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+_DRDXAR3,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+_DRNKDRV,Respondents who have reported having driven after drinking too much (variable calculated from one or more BRFSS questions)
+_ECIGSTS,E-cigarette use status
+_EXTETH2,Adults that have had any permanent teeth extracted (variable calculated from one or more BRFSS questions)
+_EXTETH3,Adults that have had any permanent teeth extracted (variable calculated from one or more BRFSS questions)
+_FLSHOT5,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+_FLSHOT6,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+_FLSHOT7,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+_FOBTFS,Aged 50-75 had a blood stool test within the past 3 years
+_FRTLT1,Consumed fruit less than one time per day (variable calculated from one or more BRFSS questions)
+_FRTLT1A,Consumed fruit less than one time per day (variable calculated from one or more BRFSS questions)
+_FS5YR,Aged 50-75 had a sigmoidoscopy within the past 5 years
+_HCVU651,Adults aged 18-64 who have any kind of health care coverage (variable calculated from one or more BRFSS questions)
+_HCVU652,Adults aged 18-64 who have any kind of health care coverage (variable calculated from one or more BRFSS questions)
+_HLTHPLN,Adults who had some form of health insurance (variable calculated from one or more BRFSS questions)
+_LMTACT1,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+_LMTACT2,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+_LMTACT3,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+_LMTSCL1,Does arthritis or joint symptoms interfere with your normal social activities? (variable calculated from one or more BRFSS questions)
+_LMTWRK1,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+_LMTWRK2,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+_LMTWRK3,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+_LTASTH1,Adults who have ever been told they have asthma (variable calculated from one or more BRFSS questions)
+_MAM5021,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_MAM5022,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_MAM5023,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_MAM502Y,Women aged 50+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_MENT14D,Days when mental health status not good (variable calculated from one or more BRFSS questions)
+_MICHD,Respondents that have ever reported having coronary heart disease (chd) or myocardial infarction (mi) (variable calculated from one or more BRFSS questions)
+_PAINDEX,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+_PAINDX1,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+_PAINDX2,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+_PASTAE1,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+_PASTAE2,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+_PASTAER,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+_PASTRNG,Participated in muscle strengthening exercises two or more times per week (variable calculated from one or more BRFSS questions)
+_PHYS14D,Days when physical health status not good (variable calculated from one or more BRFSS questions)
+_PNEUMO2,Adults aged 65+ who have ever had a pneumonia vaccination (variable calculated from one or more BRFSS questions)
+_PNEUMO3,Adults aged 65+ who have ever had a pneumonia vaccination (variable calculated from one or more BRFSS questions)
+_RFBING5,"Binge drinkers (males having five or more drinks on one occasion, females having four or more drinks on one occasion) (variable calculated from one or more BRFSS questions)"
+_RFBLDS2,Adults aged 50+ who have had a blood stool test within the past two years (variable calculated from one or more BRFSS questions)
+_RFBLDS3,Adults aged 50-75 who have had a blood stool test within the past year (variable calculated from one or more BRFSS questions)
+_RFBLDS4,Adults aged 50-75 who have had a blood stool test within the past year (variable calculated from one or more BRFSS questions)
+_RFCHOL,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+_RFCHOL1,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+_RFCHOL2,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+_RFCHOL3,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+_RFDRHV4,Heavy drinkers (adult men having more than two drinks per day and adult women having more than one drink per day) (variable calculated from one or more BRFSS questions)
+_RFDRHV5,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+_RFDRHV6,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+_RFDRHV7,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+_RFHLTH,Health Status (variable calculated from one or more BRFSS questions)
+_RFHYPE5,Adults who have been told they have high blood pressure (variable calculated from one or more BRFSS questions)
+_RFHYPE6,Adults who have been told they have high blood pressure (variable calculated from one or more BRFSS questions)
+_RFMAM21,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_RFMAM22,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_RFMAM2Y,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+_RFPAP32,Women aged 18+ who have had a pap test within the past three years (variable calculated from one or more BRFSS questions)
+_RFPAP33,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+_RFPAP34,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+_RFPAP35,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+_RFPSA21,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+_RFPSA22,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+_RFPSA23,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+_RFSEAT2,Always or nearly always wears a seat belt?
+_RFSEAT3,Always wears a seat belt? (variable calculated from one or more BRFSS questions)
+_RFSIGM2,Adults aged 50+ who have ever had a sigmoidoscopy or colonoscopy (variable calculated from one or more BRFSS questions)
+_RFSMOK3,Adults who are current smokers (variable calculated from one or more BRFSS questions)
+_SMOKER3,Four Level Smoking Status (variable calculated from one or more BRFSS questions)
+_TOTINDA,"During the past month, did you participate in any physical activities? (variable calculated from one or more BRFSS questions)"
+_VEGLT1,Consumed vegetables less than one time per day (variable calculated from one or more BRFSS questions)
+_VEGLT1A,Consumed vegetables less than one time per day (variable calculated from one or more BRFSS questions)

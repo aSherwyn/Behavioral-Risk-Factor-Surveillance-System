@@ -1,0 +1,550 @@
+,index,definition
+0,CLASS01,Alcohol Consumption
+1,CLASS02,Cholesterol Awareness
+2,CLASS03,Chronic Health Indicators
+3,CLASS04,Colorectal Cancer Screening
+4,CLASS05,Demographics
+5,CLASS06,Fruits and Vegetables
+6,CLASS07,Health Care Access/Coverage
+7,CLASS08,Health Status
+8,CLASS09,HIV-AIDS
+9,CLASS10,Hypertension Awareness
+10,CLASS11,Immunization
+11,CLASS12,Injury
+12,CLASS13,Oral Health
+13,CLASS14,Overweight and Obesity (BMI)
+14,CLASS15,Physical Activity
+15,CLASS16,Prostate Cancer
+16,CLASS17,Tobacco Use
+17,CLASS18,Women's Health
+18,CLASS19,E-Cigarette Use
+19,CLASS20,Days of Poor Health
+20,TOPIC01,Aerobic Activity
+21,TOPIC02,Age
+22,TOPIC03,Alcohol Consumption
+23,TOPIC04,All Teeth Removed
+24,TOPIC05,Arthritis
+25,TOPIC06,Asthma
+26,TOPIC07,Binge Drinking
+27,TOPIC08,Blood Stool Test
+28,TOPIC09,BMI Categories
+29,TOPIC10,Cardiovascular Disease
+30,TOPIC11,Cholesterol Checked
+31,TOPIC12,Cholesterol High
+32,TOPIC14,COPD
+33,TOPIC15,Current Smoker Status
+34,TOPIC16,Dental Visit
+35,TOPIC17,Depression
+36,TOPIC18,Diabetes
+37,TOPIC19,Disability status
+38,TOPIC20,Drink and Drive
+39,TOPIC21,Education
+40,TOPIC22,Employment
+41,TOPIC23,Exercise
+42,TOPIC24,Fair or Poor Health
+43,TOPIC26,Flu Shot
+44,TOPIC27,Fruit Consumption
+45,TOPIC28,Health Care Cost
+46,TOPIC29,Health Care Coverage
+47,TOPIC30,Heavy Drinking
+48,TOPIC31,High Blood Pressure
+49,TOPIC32,HIV Test
+50,TOPIC33,Income
+51,TOPIC34,Internet
+52,TOPIC35,Kidney
+53,TOPIC36,Last Checkup
+54,TOPIC37,Mammogram
+55,TOPIC38,Marital Status
+56,TOPIC39,Number of Children
+57,TOPIC40,Other Cancer
+58,TOPIC41,Overall Health
+59,TOPIC42,Pap Test
+60,TOPIC43,Personal Care Provider
+61,TOPIC45,Physical Activity Index
+62,TOPIC46,Pneumonia Vaccination
+63,TOPIC47,PSA Test
+64,TOPIC48,Race
+65,TOPIC49,Rent/Own Home
+66,TOPIC50,Seatbelt Use
+67,TOPIC51,Sex
+68,TOPIC52,Sigmoidoscopy
+69,TOPIC53,Skin Cancer
+70,TOPIC54,Smokeless Tobacco
+71,TOPIC55,Smoker Status
+72,TOPIC56,Strength Activity
+73,TOPIC57,Teeth Removed
+74,TOPIC58,Tetanus Shot
+75,TOPIC59,Under 65 Coverage
+76,TOPIC60,Vegetable Consumption
+77,TOPIC61,Veteran Status
+78,TOPIC63,Shingle Vaccination
+79,TOPIC64,USPSTF Recommendations
+80,TOPIC67,E-Cigarette Use
+81,TOPIC68,Colonoscopy
+82,TOPIC70,Hearing
+83,TOPIC71,Healthy Days
+84,Topic02,Age
+85,Topic03,Alcohol Consumption
+86,Topic04,All Teeth Removed
+87,Topic05,Arthritis
+88,Topic06,Asthma
+89,Topic07,Binge Drinking
+90,Topic08,Blood Stool Test
+91,Topic09,BMI Categories
+92,Topic10,Cardiovascular Disease
+93,Topic11,Cholesterol Checked
+94,Topic12,Cholesterol High
+95,Topic14,COPD
+96,Topic15,Current Smoker Status
+97,Topic16,Dental Visit
+98,Topic17,Depression
+99,Topic18,Diabetes
+100,Topic19,Disability status
+101,Topic20,Drink and Drive
+102,Topic21,Education
+103,Topic22,Employment
+104,Topic23,Exercise
+105,Topic24,Fair or Poor Health
+106,Topic26,Flu Shot
+107,Topic27,Fruit Consumption
+108,Topic28,Health Care Cost
+109,Topic29,Health Care Coverage
+110,Topic30,Heavy Drinking
+111,Topic31,High Blood Pressure
+112,Topic32,HIV Test
+113,Topic33,Income
+114,Topic34,Internet
+115,Topic35,Kidney
+116,Topic36,Last Checkup
+117,Topic37,Mammogram
+118,Topic38,Marital Status
+119,Topic39,Number of Children
+120,Topic40,Other Cancer
+121,Topic41,Overall Health
+122,Topic42,Pap Test
+123,Topic43,Personal Care Provider
+124,Topic46,Pneumonia Vaccination
+125,Topic47,PSA Test
+126,Topic48,Race
+127,Topic49,Rent/Own Home
+128,Topic50,Seatbelt Use
+129,Topic51,Sex
+130,Topic52,Sigmoidoscopy
+131,Topic53,Skin Cancer
+132,Topic54,Smokeless Tobacco
+133,Topic55,Smoker Status
+134,Topic56,Strength Activity
+135,Topic57,Teeth Removed
+136,Topic58,Tetanus Shot
+137,Topic59,Under 65 Coverage
+138,Topic60,Vegetable Consumption
+139,Topic61,Veteran Status
+140,Topic62,Vision
+141,Topic63,Shingle Vaccination
+142,Topic64,USPSTF Recommendations
+143,1,Alabama
+144,2,Alaska
+145,4,Arizona
+146,5,Arkansas
+147,6,California
+148,8,Colorado
+149,9,Connecticut
+150,10,Delaware
+151,11,District of Columbia
+152,12,Florida
+153,13,Georgia
+154,15,Hawaii
+155,16,Idaho
+156,17,Illinois
+157,18,Indiana
+158,19,Iowa
+159,20,Kansas
+160,21,Kentucky
+161,22,Louisiana
+162,23,Maine
+163,24,Maryland
+164,25,Massachusetts
+165,26,Michigan
+166,27,Minnesota
+167,28,Mississippi
+168,29,Missouri
+169,30,Montana
+170,31,Nebraska
+171,32,Nevada
+172,33,New Hampshire
+173,34,New Jersey
+174,35,New Mexico
+175,36,New York
+176,37,North Carolina
+177,38,North Dakota
+178,39,Ohio
+179,40,Oklahoma
+180,41,Oregon
+181,42,Pennsylvania
+182,44,Rhode Island
+183,45,South Carolina
+184,46,South Dakota
+185,47,Tennessee
+186,48,Texas
+187,49,Utah
+188,50,Vermont
+189,51,Virginia
+190,53,Washington
+191,54,West Virginia
+192,55,Wisconsin
+193,56,Wyoming
+194,66,Guam
+195,72,Puerto Rico
+196,78,Virgin Islands
+197,98,All States and DC (median) **
+198,99,"All States, DC and Territories (median) **"
+199,AGE01,18-24
+200,AGE02,25-34
+201,AGE03,35-44
+202,AGE04,45-54
+203,AGE05,55-64
+204,AGE06,40-49
+205,AGE07,50-59
+206,AGE08,60-64
+207,AGE09,65+
+208,AGE10,65-74
+209,AGE11,75+
+210,AGE12,21-30
+211,AGE13,31-40
+212,AGE14,41-50
+213,AGE15,51-60
+214,AGE16,61-65
+215,AGE17,60-69
+216,AGE18,70-74
+217,AGE19,70-75
+218,AGE20,21-25
+219,AGE21,26-35
+220,AGE22,36-45
+221,AGE23,46-55
+222,AGE24,56-65
+223,BO1,Overall
+224,EDUCA1,Less than H.S.
+225,EDUCA2,H.S. or G.E.D.
+226,EDUCA3,Some post-H.S.
+227,EDUCA4,College graduate
+228,INCOME01,"Less than $15,000"
+229,INCOME02,"$15,000-$24,999"
+230,INCOME03,"$25,000-$34,999"
+231,INCOME04,"$35,000-$49,999"
+232,INCOME05,"$50,000-$99,999"
+233,INCOME06,"$100,000-$199,999"
+234,INCOME07,"$200,000+"
+235,INCOME1,"Less than $15,000"
+236,INCOME2,"$15,000-$24,999"
+237,INCOME3,"$25,000-$34,999"
+238,INCOME4,"$35,000-$49,999"
+239,INCOME5,"$50,000+"
+240,RACE01,"White, non-Hispanic"
+241,RACE02,"Black, non-Hispanic"
+242,RACE03,"American Indian or Alaskan Native, non-Hispanic"
+243,RACE04,"Asian, non-Hispanic"
+244,RACE05,"Native Hawaiian or other Pacific Islander, non-Hispanic"
+245,RACE06,"Other, non-Hispanic"
+246,RACE07,"Multiracial, non-Hispanic"
+247,RACE08,Hispanic
+248,RACE1,"White, non-Hispanic"
+249,RACE2,"Black, non-Hispanic"
+250,RACE3,Hispanic
+251,RACE4,"Other, non-Hispanic"
+252,RACE5,"Multiracial, non-Hispanic"
+253,SEX1,Male
+254,SEX2,Female
+255,CAT1,Overall
+256,CAT2,Gender
+257,CAT3,Age Group
+258,CAT4,Race/Ethnicity
+259,CAT5,Education Attained
+260,CAT6,Household Income
+261,ADDEPEV2,Ever told you that you have a form of depression?
+262,ADDEPEV3,Ever told you that you have a form of depression?
+263,AGE,What is your age?
+264,BLIND,"Are you blind or do you have serious difficulty seeing, even when wearing glasses?"
+265,BLOODCHO,Adults who have ever had their blood cholesterol checked
+266,CHCCOPD,Ever told you have COPD?
+267,CHCCOPD1,Ever told you have COPD?
+268,CHCCOPD2,Ever told you have COPD?
+269,CHCCOPD3,Ever told you have COPD?
+270,CHCKDNY1,Ever told you have kidney disease?
+271,CHCKDNY2,Ever told you have kidney disease?
+272,CHCKIDNY,Ever told you have kidney disease?
+273,CHCOCNCR,Ever told you had any other types of cancer?
+274,CHCSCNCR,Ever told you had skin cancer?
+275,CHCVISN1,Ever told you have vision impairment?
+276,CHCVISON,Ever told you have vision impairment?
+277,CHECKUP1,About how long has it been since you last visited a doctor for a routine checkup?
+278,CVDCRHD4,Ever told you had angina or coronary heart disease?
+279,CVDINFR4,Ever told you had a heart attack (myocardial infarction)?
+280,CVDSTRK3,Ever told you had a stroke?
+281,DEAF,Adults who reported being deaf
+282,DECIDE,"Do you have serious difficulty concentrating, remembering, or making decisions?"
+283,DIABETE3,Have you ever been told by a doctor that you have diabetes?
+284,DIABETE4,Have you ever been told by a doctor that you have diabetes?
+285,DIFFALON,Do you have difficulty doing errands alone?
+286,DIFFDRES,Do you have difficulty dressing or bathing?
+287,DIFFWALK,Do you have serious difficulty walking or climbing stairs?
+288,DRNKANY5,Adults who have had at least one drink of alcohol within the past 30 days
+289,ECIGNOW1,"Do you now use e-cigarettes or other electronic vaping products every day, some days, or not at all?"
+290,EDUCA,What is the highest grade or year of school you completed?
+291,EMPLOY,What is your employment status?
+292,EMPLOY1,What is your employment status?
+293,GENHLTH,How is your general health?
+294,HIVTST6,Have you ever been tested for HIV?
+295,HIVTST7,Have you ever been tested for HIV?
+296,HLTHPLN1,Do you have any kind of health care coverage?
+297,INCOME,What is your annual household income?
+299,INTERNET,Have you used the internet in the past 30 days?
+300,MARITAL,What is your marital status?
+301,MEDCOST,Was there a time in the past 12 months when you needed to see a doctor but could not because of cost?
+302,MEDCOST1,Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it?
+303,PERSDOC2,Do you have one person you think of as your personal doctor or health care provider?
+304,PERSDOC3,Do you have one person (or a group of doctors) that you think of as your personal health care provider?
+305,QLACTLM2,"Adults who are limited in any activities because of physical, mental, or emotional problems"
+306,RACE,What is your race/ethnicity?
+307,RACE8,What is your race/ethnicity?
+308,RENTHOM1,Do you own or rent your home?
+309,SEX,Gender of respondent
+310,SHINGLE2,Have you ever had the shingles or zoster vaccine?
+311,TETANUS,"Since 2005, have you had a tetanus shot?"
+312,TETANUS1,"Since 2005, have you had a tetanus shot?"
+313,USEEQUIP,Adults with health problem(s) that requires the use of special equipment
+314,USENOW3,"Do you currently use chewing tobacco, snuff, or snus?"
+315,VETERAN3,Have you ever served on active duty in the United States Armed Forces?
+316,_ALTETH2,Adults aged 65+ who have had all their natural teeth extracted (variable calculated from one or more BRFSS questions)
+317,_ALTETH3,Adults aged 65+ who have had all their natural teeth extracted (variable calculated from one or more BRFSS questions)
+318,_BMI5CAT,Weight classification by Body Mass Index (BMI) (variable calculated from one or more BRFSS questions)
+319,_CASTHM1,Adults who have been told they currently have asthma (variable calculated from one or more BRFSS questions)
+320,_CHLDCNT,How many children live in your household? (variable calculated from one or more BRFSS questions)
+321,_CHOLCH1,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+322,_CHOLCH2,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+323,_CHOLCH3,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+324,_CHOLCHK,Adults who have had their blood cholesterol checked within the last five years (variable calculated from one or more BRFSS questions)
+325,_COL10YR,Aged 50-75 had a colonoscopy in the past 10 years
+326,_CRCREC,Respondents aged 50-75 who have fully met the USPSTF recommendation (variable calculated from one or more BRFSS questions)
+327,_CRCREC1,Respondents aged 50-75 who have fully met the USPSTF recommendation (variable calculated from one or more BRFSS questions)
+328,_CURECI1,Adults who are current e-cigarette users (variable calculated from one or more BRFSS questions)
+329,_CURECIG,Current E-cigarette user
+330,_DENVST2,Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)
+331,_DENVST3,Visited the dentist or dental clinic within the past year for any reason (variable calculated from one or more BRFSS questions)
+332,_DRDXAR1,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+333,_DRDXAR2,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+334,_DRDXAR3,Adults who have been told they have arthritis (variable calculated from one or more BRFSS questions)
+335,_DRNKDRV,Respondents who have reported having driven after drinking too much (variable calculated from one or more BRFSS questions)
+336,_ECIGSTS,E-cigarette use status
+337,_EXTETH2,Adults that have had any permanent teeth extracted (variable calculated from one or more BRFSS questions)
+338,_EXTETH3,Adults that have had any permanent teeth extracted (variable calculated from one or more BRFSS questions)
+339,_FLSHOT5,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+340,_FLSHOT6,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+341,_FLSHOT7,Adults aged 65+ who have had a flu shot within the past year (variable calculated from one or more BRFSS questions)
+342,_FOBTFS,Aged 50-75 had a blood stool test within the past 3 years
+343,_FRTLT1,Consumed fruit less than one time per day (variable calculated from one or more BRFSS questions)
+344,_FRTLT1A,Consumed fruit less than one time per day (variable calculated from one or more BRFSS questions)
+345,_FS5YR,Aged 50-75 had a sigmoidoscopy within the past 5 years
+346,_HCVU651,Adults aged 18-64 who have any kind of health care coverage (variable calculated from one or more BRFSS questions)
+347,_HCVU652,Adults aged 18-64 who have any kind of health care coverage (variable calculated from one or more BRFSS questions)
+348,_HLTHPLN,Adults who had some form of health insurance (variable calculated from one or more BRFSS questions)
+349,_LMTACT1,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+350,_LMTACT2,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+351,_LMTACT3,Are you now limited in any way in any of your usual activities because of arthritis? (variable calculated from one or more BRFSS questions)
+352,_LMTSCL1,Does arthritis or joint symptoms interfere with your normal social activities? (variable calculated from one or more BRFSS questions)
+353,_LMTWRK1,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+354,_LMTWRK2,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+355,_LMTWRK3,Do arthritis or joint symptoms now affect whether you work? (variable calculated from one or more BRFSS questions)
+356,_LTASTH1,Adults who have ever been told they have asthma (variable calculated from one or more BRFSS questions)
+357,_MAM5021,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+358,_MAM5022,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+359,_MAM5023,Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+360,_MAM502Y,Women aged 50+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+361,_MENT14D,Days when mental health status not good (variable calculated from one or more BRFSS questions)
+362,_MICHD,Respondents that have ever reported having coronary heart disease (chd) or myocardial infarction (mi) (variable calculated from one or more BRFSS questions)
+363,_PAINDEX,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+364,_PAINDX1,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+365,_PAINDX2,Participated in 150 minutes or more of Aerobic Physical Activity per week (variable calculated from one or more BRFSS questions)
+366,_PASTAE1,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+367,_PASTAE2,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+368,_PASTAER,Participated in enough Aerobic and Muscle Strengthening exercises to meet guidelines (variable calculated from one or more BRFSS questions)
+369,_PASTRNG,Participated in muscle strengthening exercises two or more times per week (variable calculated from one or more BRFSS questions)
+370,_PHYS14D,Days when physical health status not good (variable calculated from one or more BRFSS questions)
+371,_PNEUMO2,Adults aged 65+ who have ever had a pneumonia vaccination (variable calculated from one or more BRFSS questions)
+372,_PNEUMO3,Adults aged 65+ who have ever had a pneumonia vaccination (variable calculated from one or more BRFSS questions)
+373,_RFBING5,"Binge drinkers (males having five or more drinks on one occasion, females having four or more drinks on one occasion) (variable calculated from one or more BRFSS questions)"
+374,_RFBLDS2,Adults aged 50+ who have had a blood stool test within the past two years (variable calculated from one or more BRFSS questions)
+375,_RFBLDS3,Adults aged 50-75 who have had a blood stool test within the past year (variable calculated from one or more BRFSS questions)
+376,_RFBLDS4,Adults aged 50-75 who have had a blood stool test within the past year (variable calculated from one or more BRFSS questions)
+377,_RFCHOL,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+378,_RFCHOL1,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+379,_RFCHOL2,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+380,_RFCHOL3,Adults who have had their blood cholesterol checked and have been told it was high (variable calculated from one or more BRFSS questions)
+381,_RFDRHV4,Heavy drinkers (adult men having more than two drinks per day and adult women having more than one drink per day) (variable calculated from one or more BRFSS questions)
+382,_RFDRHV5,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+383,_RFDRHV6,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+384,_RFDRHV7,Heavy drinkers (adult men having more than 14 drinks per week and adult women having more than 7 drinks per week) (variable calculated from one or more BRFSS questions)
+385,_RFHLTH,Health Status (variable calculated from one or more BRFSS questions)
+386,_RFHYPE5,Adults who have been told they have high blood pressure (variable calculated from one or more BRFSS questions)
+387,_RFHYPE6,Adults who have been told they have high blood pressure (variable calculated from one or more BRFSS questions)
+388,_RFMAM21,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+389,_RFMAM22,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+390,_RFMAM2Y,Women aged 40+ who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions)
+391,_RFPAP32,Women aged 18+ who have had a pap test within the past three years (variable calculated from one or more BRFSS questions)
+392,_RFPAP33,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+393,_RFPAP34,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+394,_RFPAP35,Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions)
+395,_RFPSA21,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+396,_RFPSA22,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+397,_RFPSA23,Men aged 40+ who have had a PSA test within the past two years (variable calculated from one or more BRFSS questions)
+398,_RFSEAT2,Always or nearly always wears a seat belt?
+399,_RFSEAT3,Always wears a seat belt? (variable calculated from one or more BRFSS questions)
+400,_RFSIGM2,Adults aged 50+ who have ever had a sigmoidoscopy or colonoscopy (variable calculated from one or more BRFSS questions)
+401,_RFSMOK3,Adults who are current smokers (variable calculated from one or more BRFSS questions)
+402,_SMOKER3,Four Level Smoking Status (variable calculated from one or more BRFSS questions)
+403,_TOTINDA,"During the past month, did you participate in any physical activities? (variable calculated from one or more BRFSS questions)"
+404,_VEGLT1,Consumed vegetables less than one time per day (variable calculated from one or more BRFSS questions)
+405,_VEGLT1A,Consumed vegetables less than one time per day (variable calculated from one or more BRFSS questions)
+406,RESP001,Male
+407,RESP002,Female
+408,RESP003,Own
+409,RESP004,Rent
+410,RESP005,White
+411,RESP006,Black
+412,RESP007,Hispanic
+413,RESP008,MultiRacial
+414,RESP009,Other
+415,RESP010,18-24 years
+416,RESP011,25-34 years
+417,RESP012,35-44 years
+418,RESP013,45-54 years
+419,RESP014,55-64 years
+420,RESP015,65+ years
+421,RESP016,"Less than $15,000"
+422,RESP017,"$15,000 - 24,999"
+423,RESP018,"$25,000 - 34,999"
+424,RESP019,"$35,000 -  49,999"
+425,RESP020,"$50,000+"
+426,RESP021,Less than H.S.
+427,RESP022,H.S. or G.E.D.
+428,RESP023,Some post-H.S.
+429,RESP024,College+
+430,RESP025,Emplyd
+431,RESP026,Self emplyd
+432,RESP027,No work< yr
+433,RESP028,No work >yr
+434,RESP029,Homemkr
+435,RESP030,Student
+436,RESP031,Retired
+437,RESP032,Unable to work
+438,RESP033,Married
+439,RESP034,Divorced
+440,RESP035,Widowed
+441,RESP036,Separated
+442,RESP037,Never married
+443,RESP038,Partnered
+444,RESP039,Obese (BMI 30.0 - 99.8)
+445,RESP040,Overweight (BMI 25.0-29.9)
+446,RESP041,Normal Weight (BMI 18.5-24.9)
+447,RESP042,Underweight (BMI 12.0-18.4)
+448,RESP046,Yes
+449,RESP047,"Yes, Tdap"
+450,RESP048,"Yes, not Tdap"
+451,RESP049,"Yes, not sure what type"
+452,RESP050,"Yes, only one"
+453,RESP051,"Yes, pregnancy-related"
+454,RESP052,"No, pre-diabetes or borderline diabetes"
+455,RESP053,More than one
+456,RESP054,No
+457,RESP055,Respondent is blind
+458,RESP056,Excellent
+459,RESP057,Very good
+460,RESP058,Good
+461,RESP059,Fair
+462,RESP060,Poor
+463,RESP061,Good or Better Health
+464,RESP062,Fair or Poor Health
+465,RESP063,Within the past year
+466,RESP064,Within the past 2 years
+467,RESP065,Within the past 5 years
+468,RESP066,5 or more years ago
+469,RESP067,Never
+470,RESP068,Smoke everyday
+471,RESP069,Smoke some days
+472,RESP070,Former smoker
+473,RESP071,Never smoked
+474,RESP072,Checked in past 5 years
+475,RESP073,Not Checked in past 5 years
+476,RESP074,Never Checked
+477,RESP077,One or more times per day
+478,RESP078,Less than one time per day
+479,RESP079,Every day
+480,RESP080,Some days
+481,RESP081,Not at all
+482,RESP082,"Have arthritis, social activities limited a lot"
+483,RESP083,"Have arthritis, social activities limited a little"
+484,RESP084,"Have arthritis, social activities not limited"
+485,RESP085,"Have arthritis, have limited usual activities"
+486,RESP086,"Have arthritis, no limited usual activities"
+487,RESP087,Have arthritis and have limited work
+488,RESP088,Have arthritis and no limited work
+489,RESP089,Not told they have arthritis
+490,RESP090,Five or more children
+491,RESP091,Four children
+492,RESP092,Three children
+493,RESP093,Two children
+494,RESP094,One child
+495,RESP095,None
+496,RESP137,Employed
+497,RESP141,Homemaker
+498,RESP172,Self-employed
+499,RESP184,Always Wears a Seatbelt
+500,RESP185,Does Not Always Wear a Seatbelt
+501,RESP186,Received a mammogram within the past 2 years
+502,RESP187,Did not receive a mammogram within the past 2 years
+503,RESP188,Received a Pap test within the past 3 years
+504,RESP189,Did not receive a Pap test within the past 3 years
+505,RESP190,Had a blood stool test in the past year
+506,RESP191,Have not had a blood stool test in the past year
+507,RESP192,Met USPSTF recommendations for testing
+508,RESP193,Did not meet USPSTF recommendations for testing
+509,RESP194,"White, non-Hispanic"
+510,RESP195,"Black, non-Hispanic"
+511,RESP196,"American Indian or Alaskan Native, non-Hispanic"
+512,RESP197,"Asian, non-Hispanic"
+513,RESP198,"Native Hawaiian or other Pacific Islander, non-Hispanic"
+514,RESP199,"Other race, non-Hispanic"
+515,RESP200,"MultiRacial, non-Hispanic"
+516,RESP201,Have driven after having too much to drink
+517,RESP202,Have not driven after having too much to drink
+518,RESP203,Reported having MI or CHD
+519,RESP204,Did not report having MI or CHD
+520,RESP205,Do not meet criteria for heavy drinking
+521,RESP206,Meet criteria for heavy drinking
+522,RESP207,Received a colonoscopy
+523,RESP208,Did not receive a colonoscopy
+524,RESP209,Received a home FOBT
+525,RESP210,Did not receive a home FOBT
+526,RESP211,Received a sigmoidoscopy
+527,RESP212,Did not receive a sigmoidoscopy
+528,RESP213,Not currently using E-cigarettes
+529,RESP214,Current E-cigarette user
+530,RESP215,Current E-cigarette user - every day
+531,RESP216,Current E-cigarette user - some days
+532,RESP217,Former E-cigarette user
+533,RESP218,Never used E-cigarettes
+534,RESP219,Zero days when physical health not good
+535,RESP220,1-13 days when physical health not good
+536,RESP221,14+ days when physical health not good
+537,RESP222,Zero days when mental health not good
+538,RESP223,1-13 days when mental health not good
+539,RESP224,14+ days when mental health not good
+540,RESP225,Have not had a blood stool test in more than the past year
+541,RESP226,Have never had a blood stool test
+542,RESP227,Received one or more of the recommended CRC tests within the recommended time interval
+543,RESP228,Did not receive one or more of the recommended CRC tests within the recommended time interval
+544,RESP229,Have never received any of the recommended CRC tests
+545,RESP230,"$50,000 - 99,999"
+546,RESP231,"$100,000 - 199,999"
+547,RESP232,"$200,000+"
+548,RESP233,Have some form of health insurance
+549,RESP234,Do not have some form of health insurance
