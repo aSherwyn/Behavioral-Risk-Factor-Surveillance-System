@@ -174,7 +174,7 @@ for m in map_list:
 ***
 
 ## Data <a name = "data"></a>
-**Original Data:**
+**Original Data:**  
 Records: 2.29 million  
 Variables: 27  
 Date created: June 4, 2015  
