@@ -29,13 +29,47 @@ However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitu
 - [ ] Examine the impact of COVID-19 on general health, mental health, and dietary health, and physical fitness.
 
 ## Features <a name = "features"></a>
+<a href="https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/03%20Scripts/01%20Cleaning.ipynb">`Thorough cleaning process with detailed, color-coded notations throughout.`
+![Screenshot (302)](https://user-images.githubusercontent.com/119871530/221743647-73003bc5-f3d1-4f65-9b6a-b86cbab9208f.png)</a>
+
+
+<a href="https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/03%20Scripts/02.3%20Overall%20Health%20by%20State%20-%20Correlations.ipynb">`Correlation heatmaps with strong, moderate, and weak sub-maps as well as category-specific heatmaps.`  
+![download](https://user-images.githubusercontent.com/119871530/221739020-d66efe01-1262-4d65-be3b-2a1a08777418.png)</a>
+
+<a href="https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/03%20Scripts/02.5%20Overall%20Health%20by%20State%20-%20Linear%20Regressions.ipynb">`Linear Regressions and correlating statistics plotted and calculated via elegant user-defined functions to optimize reusability and task duration.`</a>  
+```python
+# This function will plot a linear regression and print the statistics
+# of a variable against a list of variables.
+
+def reg_plot(x_name, y_list, threshold):
+    for i in range(0,len(y_list)): # Making for loop to run through y_list
+        
+        y_name = y_list[i] # Defining y_name variable from y_list iteration
+        
+        df_temp = df[[x_name, y_name]].copy() # Creating a temporary dataframe
+        df_temp.dropna(inplace = True) # Cleaning the temporary data frame
+        ...
+```
+
+<a href="https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/03%20Scripts/02.6%20Overall%20Health%20by%20State%20-%20Geospatial%20Analysis.ipynb">`Combined for loops and user-defined functions to plot category-specific maps from a geopandas dataframe.`</a>
+```python
+# Plotting maps for all the BMI category variables
+
+map_list = ['BMI: Obese (BMI 30.0 - 99.8)',
+              'BMI: Overweight (BMI 25.0-29.9)',
+              'BMI: Normal Weight (BMI 18.5-24.9)',
+              'BMI: Underweight (BMI 12.0-18.4)']
+
+for m in map_list:
+    plot_map(m)
+```
 
 ## Skills <a name = "skills"></a>
 
 ## Process <a name = "process"></a>
 
 ## Logs and Dashboards <a name = "logs-dashboards"></a>
-- Project Log
+- [Project Log](https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/04%20Analysis/BRFSS%20Project%20Log.xlsx)
 
 - Health Across the Nation Dashboard
 - BMI Dashboard
