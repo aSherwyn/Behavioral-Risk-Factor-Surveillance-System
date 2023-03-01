@@ -88,39 +88,42 @@ for m in map_list:
 ```
 1️⃣ Defining the scope
 ├── ❕ This was a self-driven project with potentially limitless applications.
-├── ▼ I set goals based on:
-│   ├── ▪ The scope of the data.
-│   ├── ▪ Real-world applications - healthcare, policy making, marketing.
-│   └── ▪ Personal interests -  dietary health and happiness, the impact of COVID-19.
-|
+└── ▼ I set goals based on:
+    ├── ▪ The scope of the data.
+    ├── ▪ Real-world applications - healthcare, policy making, marketing.
+    └── ▪ Personal interests -  dietary health and happiness, the impact of COVID-19.
+```
+```
 2️⃣ Understanding the data
 ├── ❕ The dataset was structured to work with a CDC web app, and not conducive to tabular analysis.
-├── 📄 001 Preliminary Explorations.ipynb 
-|   ├── ❕ This script was used to play with the data and see how the variables related.
-│   ├── ▪ Through this, I learned how different break out categories translated into subsets of data.
-│   ├── ▪ A data dictionary and Excel workbook were created to link variable IDs to their meanings.
-│   └── 📁 I created Word files to help determine which classes and questions would be needed for the analysis.
-|
+└── 📄 001 Preliminary Explorations.ipynb 
+    ├── ❕ This script was used to play with the data and see how the variables related.
+    ├── ▪ Through this, I learned how different break out categories translated into subsets of data.
+    ├── ▪ A data dictionary and Excel workbook were created to link variable IDs to their meanings.
+    └── 📁 I created Word files to help determine which classes and questions would be needed for the analysis.
+```
+```
 3️⃣ Cleaning the data
-├── 📄 01 Cleaning.ipynb
-|   ├── ❕ This script was used to clean and document the cleaning process.
-│   ├── ▶ Dropped unnecessary columns
-│   ├── ▼ Standardized column names in snake form for ease of use in python
-│   │   └── ▪ LocationID → location_id
-|   |
-│   ├── ▶ Unified datatypes.
-│   ├── ▼ Created consistent names for values in the variables.
-│   │   ├── ▼ Unified style variations
-│   |   │   └── ▪ TOPIC02 and Topic02 → TOPIC02
-|   |   |
-│   │   └── ▼ Unified variations over time
-│   |       ├── ▪ INCOME1 was used for incomes of $15,000 or less from 2011 to 2020.
-│   |       ├── ▪ INCOME01 was used for incomes of $15,000 or less after 2020.
-│   |       └── ▪ INCOME1 and INCOME01 → INCOME1.
-|   |
-│   ├── ▶ NULL values were noted to be handled on a per-case basis.
-│   └── ▶ Dropped unnecessary rows based on non-used question IDs.
-|
+└── 📄 01 Cleaning.ipynb
+    ├── ❕ This script was used to clean and document the cleaning process.
+    ├── ▶ Dropped unnecessary columns
+    ├── ▼ Standardized column names in snake form for ease of use in python
+    │   └── ▪ LocationID → location_id
+    |
+    ├── ▶ Unified datatypes.
+    ├── ▼ Created consistent names for values in the variables.
+    │   ├── ▼ Unified style variations
+    |   │   └── ▪ TOPIC02 and Topic02 → TOPIC02
+    |   |
+    │   └── ▼ Unified variations over time
+    |       ├── ▪ INCOME1 was used for incomes of $15,000 or less from 2011 to 2020.
+    |       ├── ▪ INCOME01 was used for incomes of $15,000 or less after 2020.
+    |       └── ▪ INCOME1 and INCOME01 → INCOME1.
+    |
+    ├── ▶ NULL values were noted to be handled on a per-case basis.
+    └── ▶ Dropped unnecessary rows based on non-used question IDs.
+```
+```
 4️⃣ Overall Health by State
 ├── ❕ Looks at health trends across the nation on a state and national level.
 ├── 📄 02.1 Overall Health by State - Wrangling.ipynb 
@@ -147,12 +150,14 @@ for m in map_list:
 │   ├── ▶ Features user-defined function to calculate and print regression statistics of variable pairs with strong r2 scores.
 │   └── ▶ Features user-defined function to plot linear regressions and print the regression statistics of variable pairs with strong r2 scores.
 |
-├── 📄 02.6 Overall Health by State - Geospatial Analysis.ipynb
-|   ├── ❕ This script creates a geopandas dataframe and plots choropleths of the variables.
-│   ├── ▶ Features interactive folium maps.
-│   └── ▶ Features user-defined function to choropleth maps per health category for ease of analysis and optimized reusability.
+└── 📄 02.6 Overall Health by State - Geospatial Analysis.ipynb
+    ├── ❕ This script creates a geopandas dataframe and plots choropleths of the variables.
+    ├── ▶ Features interactive folium maps.
+    └── ▶ Features user-defined function to choropleth maps per health category for ease of analysis and optimized reusability.
+```
+```
 5️⃣ Overall Health by State
-├── ❕ Looks at health trends across the nation on demographic level.
+├── ❕ Looks at health trends across the nation on a demographics level.
 └── ❗ Coming soon!
 ```
 ***
@@ -180,6 +185,7 @@ Variables: 27
 Date created: June 4, 2015  
 Last updated: October 21, 2022  
 Publisher: Centers for Disease Control and Prevention (CDC)  
+
 [CDC's BRFSS Data](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu)  
 [BRFSS Methodology](http://www.cdc.gov/brfss/factsheets/pdf/DBS_BRFSS_survey.pdf)  
 [BRFSS Glossary](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct/data)  
