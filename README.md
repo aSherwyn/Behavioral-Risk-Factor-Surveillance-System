@@ -28,7 +28,7 @@ However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitu
 ## Obectives <a name = "objectives"></a>
 - [x] Gain a functional understanding of the BRFSS and its variables.
 - [x] Creat subsets of the original dataset and upload for public use.  
-- [ ] Provide current regionally relevant health metrics to healthcare professionals and policy makers.
+- [x] Provide current regionally relevant health metrics to healthcare professionals and policy makers.
 - [ ] Provide current demographically focused health metrics to healthcare professionals and policy makers.
 - [ ] Examine the impact of COVID-19 on general health, mental health, and dietary health, and physical fitness.
 
@@ -169,8 +169,9 @@ for m in map_list:
 ## Logs and Dashboards <a name = "logs-dashboards"></a>
 - [Project Log](https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/04%20Analysis/BRFSS%20Project%20Log.xlsx)
 
-- Health Across the Nation Dashboard
-- BMI Dashboard
+### Dashboards
+- [BRFSS by State](https://public.tableau.com/views/BRFSS-Statesv4/StatesDash?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Obesity in America](https://public.tableau.com/views/ObesityinAmerica_16790964638220/Obesitydashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Dietary Health Dashboard
 - General Health Dashboard
 - Mental Health Dashboard
