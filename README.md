@@ -21,7 +21,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the Unites States’s 
 
 By collecting behavioral health risk data at the state and local level, BRFSS has become a powerful tool for targeting and building health promotion activities.
 
-However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitude and variety. It covers topics from dietary habits to alcohol use to prostate exam frequency. Responses are stratified into multiple categories such as age, ethnicity, state, and year. Official categories, responses, and questions vary from year to year. **In this project I cleaned years 2015-2021, wrangled and uploaded more approachable subsets to kaggle, and conducted analyses by state, country, and demographic categories for the following questions**[¹](#f1).
+However, as comprehensive as the BRFSS is, it is equally overwhelming in magnitude and variety. It covers topics from dietary habits to alcohol use to prostate exam frequency. Responses are stratified into multiple categories such as age, ethnicity, state, and year. Official categories, responses, and questions vary from year to year. **In this project I cleaned years 2015-2021, wrangled and uploaded more approachable subsets to kaggle, and conducted analyses by state, country, and demographic categories for a subset of questions[¹](#f1) related to: body mass index, general health, mental health, dietary health, doctor visits, and physical activity**.
 
 ***
 
@@ -170,8 +170,8 @@ for m in map_list:
 - [Project Log](https://github.com/aSherwyn/Behavioral-Risk-Factor-Surveillance-System/blob/main/04%20Analysis/BRFSS%20Project%20Log.xlsx)
 
 ### Dashboards
-- [BRFSS by State](https://public.tableau.com/views/BRFSS-Statesv4/StatesDash?:language=en-US&:display_count=n&:origin=viz_share_link)
-- [Obesity in America](https://public.tableau.com/views/ObesityinAmerica_16790964638220/Obesitydashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [BRFSS by State](https://public.tableau.com/views/BRFSS-Statesv4/StatesDash?:language=en-US&:display_count=n&:origin=viz_share_link) - reveals health rankings and statistics across the United States to facilitate better-informed health decisions.
+- [Obesity in America](https://public.tableau.com/views/ObesityinAmerica_16790964638220/Obesitydashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - exposes the depths of the obesity crisis in America to inspire individuals to action.
 - Dietary Health Dashboard
 - General Health Dashboard
 - Mental Health Dashboard
