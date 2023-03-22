@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Skills](#skills)
 - [Process](#process)
-- [Findings](#findings)
+- [Insights](#insights)
 - [Logs and Dashboards](#logs-dashboards)
 - [Data](#data)
 - [Author](#author)
@@ -74,7 +74,7 @@ for m in map_list:
 ***
 
 ## Skills <a name = "skills"></a>
-🤹‍♂️ `User-defined functions`, `correlations`, `temporal analysis`, `linear regression`, `geospatial analysis`, `open sourcing`, `data dictionaries`, and `data profiling, cleaning, wrangling, and visualization`  
+🤹‍♂️ `user-defined functions`, `correlations`, `temporal analysis`, `linear regression`, `geospatial analysis`, `open sourcing`, `data dictionaries`, and `data profiling, cleaning, wrangling, and visualization`  
 
 
 🛠 **Tools**: Python, Tableau, Kaggle, GitHub, Microsoft Excel, amd Microsoft Word  
@@ -127,12 +127,12 @@ for m in map_list:
 4️⃣ Overall Health by State
 ├── ❕ Looks at health trends across the nation on a state and national level.
 ├── 📄 02.1 Overall Health by State - Wrangling.ipynb 
-|   ├── ❕ This script creates subsets of the data based on categories of interest for ease of analyzing.
-|   ├── 📁 General Health has responses to BMI, general health, calculated health status, and doctor visit frequency questions.
-|   ├── 📁 Dietary Health has responses about fruit and vegetable consumption frequency.
-|   ├── 📁 Mental Health has responses about difficult concetrating, deciding, and remembering and days of bad mental health per year.
-|   ├── 📁 Physical Activity has responses about aerobic activity, strength training, and physical activity frequency.
-│   └── 📁 Overall Health is a combination of the four previous datasets.
+|   ├── ❕ This script creates subsets of the data based on unique health categories to allow easier analysis for other data professionals.
+|   ├── 💾 General Health has responses to BMI, general health, calculated health status, and doctor visit frequency questions.
+|   ├── 💾 Dietary Health has responses about fruit and vegetable consumption frequency.
+|   ├── 💾 Mental Health has responses about difficult concetrating, deciding, and remembering and days of bad mental health per year.
+|   ├── 💾 Physical Activity has responses about aerobic activity, strength training, and physical activity frequency.
+│   └── 💾 Overall Health is a combination of the four previous datasets.
 |
 ├── 📄 02.2 Overall Health by State - EVA.ipynb 
 |   └── ❕ This script provides the summary statistics and a visual sense of the variables in the dataset.
@@ -150,19 +150,37 @@ for m in map_list:
 │   ├── ▶ Features user-defined function to calculate and print regression statistics of variable pairs with strong r2 scores.
 │   └── ▶ Features user-defined function to plot linear regressions and print the regression statistics of variable pairs with strong r2 scores.
 |
-└── 📄 02.6 Overall Health by State - Geospatial Analysis.ipynb
-    ├── ❕ This script creates a geopandas dataframe and plots choropleths of the variables.
-    ├── ▶ Features interactive folium maps.
-    └── ▶ Features user-defined function to choropleth maps per health category for ease of analysis and optimized reusability.
+├── 📄 02.6 Overall Health by State - Geospatial Analysis.ipynb
+|   ├── ❕ This script creates a geopandas dataframe and plots choropleths of the variables.
+|   ├── ▶ Features interactive folium maps.
+|   └── ▶ Features user-defined function to choropleth maps per health category for ease of analysis and optimized reusability.
+└── 📄 02.7 Overall Health by State - Rankings.ipynb
+    ├── ❕ This script creates a ranking system for each health category and for overall health.
+    └── ▶ Features simplified numeric ranking system to facilitate visualization and dashboard production.
 ```
 ```
-5️⃣ Overall Health by State
+5️⃣ Overall Health by Demographic
 ├── ❕ Looks at health trends across the nation on a demographics level.
-└── ❗ Coming soon!
+└── ❗❗ Coming soon.
 ```
 ***
 
-## Findings <a name = "findings"></a>
+## Insights <a name = "insights"></a>
+1. Obesity is strongly correlated with having difficulty concentrating, deciding, or remembering.
+
+2. A normal body mass index is strongly correlated with feelings of excellent general health, eaiting fruit daily, and at least 150 minutes of aerobic activity per week.
+
+3. Obesity has been increasing while all other weight classifications are decreasing or remaining the same.
+
+4. 70% of Americans see a doctor annually.
+
+5. 80% of Americans eat vegetables daily.
+
+6. 30% of Americans are physically active less than once a month.
+
+7. The American South has some of the highest rates of obesity, poor general health, poor mental health, poor dietary health, and poor physical activity practices.
+
+8. People in states towards the east coast see doctors more regularly than those towards the west coast.
 
 ***
 
